@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◆ MAISON NOIR
+# ◆ NOIR STORE 
 
 ### A premium luxury fashion store — built from scratch with Next.js
 
